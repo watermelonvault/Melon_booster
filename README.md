@@ -15,6 +15,8 @@ Melon booster is a 3 step optimizer for windows operating system powerd by Power
   </tr>
  </table>
 
+## How this works
+
 `Step 1: cleaning temps`
 ```bash
 ## MelonboosterScript by 🍉
