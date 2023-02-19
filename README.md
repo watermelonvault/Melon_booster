@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
-Melon booster is a 3 step optimizer for windows operating system powerd by Powershell scripts.
+Melon booster is a portable app with 3 step optimizer for windows operating system powerd by Powershell scripts.
 
 ## Why use melon booster?
 - faster boots
