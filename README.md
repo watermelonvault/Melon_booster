@@ -26,3 +26,17 @@ Remove-Item “.\*\Appdata\Local\Temp\*” -Recurse -Force -ErrorAction Silently
 cleanmgr /sagerun:1 | out-Null  
 
 ```
+`Step 2: boosting C drive`
+```bash
+## ssd retrim for ssd only!
+optimize-volume -DriveLetter C -ReTrim -verbose
+## hdd defrag for hdd only!
+optimize-Volume -DriveLetter C -Defrag -Verbose
+
+```
+`Step 3: restart computer`
+```bash
+Restart-Computer
+```
+
+
