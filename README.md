@@ -5,7 +5,7 @@
 </p>
 Melon booster is a 3 step optimizer for windows operating system.
 
-step 1: cleaning temps
+`Step 1: cleaning temps`
 ```bash
 ## MelonboosterScript by 🍉
 $objShell = New-Object -ComObject Shell.Application 
