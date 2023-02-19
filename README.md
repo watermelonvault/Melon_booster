@@ -51,7 +51,7 @@ optimize-Volume -DriveLetter C -Defrag -Verbose
 Restart-Computer
 ```
 ## How to use
-- download the latest release
+- download the latest [release](https://github.com/watermelonvault/Melon_booster/releases/tag/V.1)
 - note: 
   if you have SSD as C drive use the Melon-booster-ssd.exe
   if you have HDD as C drive use the Melon-booster-hdd.exe
