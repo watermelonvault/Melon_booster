@@ -4,6 +4,9 @@
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
 Melon booster is a 3 step optimizer for windows operating system powerd by Powershell scripts.
+- faster boots
+- faster app load times
+- less hickups in ui
 
 `Lets check the results first` application used [AS SSD Benchmark 2.0](https://www.majorgeeks.com/mg/getmirror/as_ssd_benchmark,1.html)
  <table>
