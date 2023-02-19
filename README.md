@@ -1,5 +1,5 @@
 # Melon_booster 🍉🔥
- Boost your ssd & windows experience without reinstalling windows again & again
+ Boost your ssd & windows experience without reinstalling windows again & again inspired by [Kbvideos](https://youtu.be/seRDKEA-v7s)
 <p align="left">
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
