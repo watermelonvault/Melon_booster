@@ -62,7 +62,7 @@ Restart-Computer
   if you have SSD as C drive use the Melon-booster-ssd.exe
   /if you have HDD as C drive use the Melon-booster-hdd.exe
 - double click on the application & wait for the restart of pc
-- done✔
+- done🍉
 
 
 
