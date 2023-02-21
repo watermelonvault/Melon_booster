@@ -1,4 +1,4 @@
-# Melon_booster 🍉🔥
+## Melon_booster 🍉🔥
 <p align="left">
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
