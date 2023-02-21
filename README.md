@@ -1,5 +1,5 @@
 # Melon_booster 🍉🔥
- Boost your Windows experience without reinstalling windows again & again inspired by [kilObitvideos](https://youtu.be/seRDKEA-v7s)
+ Boost your Windows experience without reinstalling windows again & again. Usually process leaks memory and starts putting pressure on the memory subsystem. Fragmented memory and too much page file usage can cause a sluggish feel. As you keep using without reboot, more and more apps are going to pile up, running in the background. This happens irrespective of OS. 
 <p align="left">
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
