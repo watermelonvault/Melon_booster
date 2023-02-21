@@ -8,8 +8,8 @@ Usually, the process leaks memory and starts putting pressure on the memory subs
 ## Why use melon booster?
 - faster boots
 - faster app load times
-- less hickups in ui
-- faster read/write speed
+- fewer hiccups in UI
+- faster read/write speed across the system
 
 `Lets check the results` application used [AS SSD Benchmark 2.0](https://www.majorgeeks.com/mg/getmirror/as_ssd_benchmark,1.html)
  <table>
