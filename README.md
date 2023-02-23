@@ -2,7 +2,9 @@
 <p align="left">
   <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg" width="100"/>
 </p>
-https://img.shields.io/github/downloads/watermelonvault/Melon_booster/total?style=social
+<p align="left">
+  <img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/Melon.jpg">
+</p>
 Usually, the process leaks memory and starts putting pressure on the memory subsystem. Fragmented memory and too much page file usage can cause a sluggish feel. As you keep using windows without rebooting, more and more apps will pile up, running in the background. This happens irrespective of OS. This led to installing windows after a few couples of months of use and updates.<br>
 Melon booster is a portable app with 3 step optimizer for the windows operating system powered by Powershell scripts. It boosts your Windows experience without reinstalling windows again & again.
 
