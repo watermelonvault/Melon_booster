@@ -14,7 +14,7 @@ Melon booster is a portable app with 3 step optimizer for the windows operating 
 - fewer hiccups in UI
 - faster read/write speed across the system
 
-`Lets check the results` application used [AS SSD Benchmark 2.0](https://www.majorgeeks.com/mg/getmirror/as_ssd_benchmark,1.html)
+`Lets check the results` Benchmarking application used [AS SSD Benchmark 2.0](https://www.majorgeeks.com/mg/getmirror/as_ssd_benchmark,1.html)
  <table>
    <td>Before</td>
    <td>After</td>
