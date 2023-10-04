@@ -24,7 +24,7 @@ Melon booster is a portable app with 3 step optimizer for the windows operating 
   </tr>
  </table>
 
-## How it works
+## How it works?
 
 `Step 1: cleaning temps`
 ```bash
