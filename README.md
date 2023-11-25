@@ -29,8 +29,8 @@ Melon booster is a portable app with 3 step optimizer for the windows operating 
    <td>Before</td>
    <td>After</td>
   <tr>
-    <td><img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/before0.jpg"></td>
-    <td><img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/after0.jpg"></td>
+    <td><img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/before0.png"></td>
+    <td><img src="https://github.com/watermelonvault/Melon_booster/blob/main/pics/after0.png"></td>
   </tr>
  </table>
 
